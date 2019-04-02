@@ -5,7 +5,7 @@
 # In[1]:
 
 >>>>>>> Stashed changes
-
+lets chajkdjks
 get_ipython().magic('matplotlib inline')
 import matplotlib.pyplot as plt
 import matplotlib.cm as cm
