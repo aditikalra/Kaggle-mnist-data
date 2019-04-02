@@ -2,15 +2,6 @@
 # coding: utf-8
 
 <<<<<<< Updated upstre
-# In[1]:
-
->>>>>>> Stashed changes
-lets chajkdjks
-get_ipython().magic('matplotlib inline')
-import matplotlib.pyplot as plt
-import matplotlib.cm as cm
-
-import tensorflow as tf
 
 # settings
 LEARNING_RATE = 1e-4
