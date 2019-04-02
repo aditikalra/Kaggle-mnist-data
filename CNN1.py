@@ -1,11 +1,7 @@
 
 # coding: utf-8
 
-<<<<<<< Updated upstream
-# In[1]:fjj
-import numpy as np
-import pandas as pd
-=======
+<<<<<<< Updated upstre
 # In[1]:
 
 >>>>>>> Stashed changes
