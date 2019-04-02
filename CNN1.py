@@ -1,10 +1,14 @@
 
 # coding: utf-8
 
+<<<<<<< Updated upstream
 # In[1]:fjj
 import numpy as np
-import dt
 import pandas as pd
+=======
+# In[1]:
+
+>>>>>>> Stashed changes
 
 get_ipython().magic('matplotlib inline')
 import matplotlib.pyplot as plt
